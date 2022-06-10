@@ -1,5 +1,6 @@
 
-#python inputs.py 2022-06-09
+#ejecutar en bash con este nombre
+#python inputs.py 2022-06-09 
 import sys
 
 print(sys.argv)
